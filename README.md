@@ -6,7 +6,7 @@ Hi 👋 My name is Vova.
 
 I've been learning to code 1,5 year. I started with c#, but have found passion for Frontend. First knowledges gave me a E-book, where I discovered first HTML/CSS knowledges. I continued with book named 'JS for kids', after what one enought big Frontend course was taken by me. There I got many lessons and practice tasks in HTML/CSS, BEM and SASS(SCSS), JS, Git, TS and React. During the course I prepared 2 small PET projects(1-st one: HTML+SASS, 2-nd one: React+CSS), that show my skills. This is my small story from scratch to Frontend Developer. Currently I'm studying React and Node.js. Recently I got some practice at coding in ObriSoft, where occured intership as Frontend developer(stack: React + CSS). Currenly I'm looking for a new company for long-term cooperation for build an ambitious career.
 
-* 🌍  I'm based in Kyiv
+* 🌍  I'm based in Lviv
 * ✉️  You can contact me at [bymood.grmn@gmail.com](mailto:bymood.grmn@gmail.com)
 * 🧠  I'm learning node js
 
