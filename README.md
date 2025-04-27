@@ -8,7 +8,7 @@ I've been learning to code for 3 years. I started with c#, but have found a pass
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [bymood.grmn@gmail.com](mailto:bymood.grmn@gmail.com)
-* 🧠  I'm learning Frontend + PHP
+* 🧠  I'm learning Frontend + React Native
 
 ### Skills
 
