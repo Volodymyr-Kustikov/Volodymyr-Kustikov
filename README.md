@@ -1,10 +1,10 @@
 Hi 👋 My name is Vova.
 ======================
 
-(and I'm a Front-end developer)
+(and I'm a React/React Native developer)
 -------------------------------
 
-I've been learning to code 1,5 year. I started with c#, but have found passion for Frontend. First knowledges gave me a E-book, where I discovered first HTML/CSS knowledges. I continued with book named 'JS for kids', after what one enought big Frontend course was taken by me. There I got many lessons and practice tasks in HTML/CSS, BEM and SASS(SCSS), JS, Git, TS and React. During the course I prepared 2 small PET projects(1-st one: HTML+SASS, 2-nd one: React+CSS), that show my skills. This is my small story from scratch to Frontend Developer. Currently I'm studying React and PHP. Recently I got some practice at coding in ObriSoft, where occured intership as Frontend developer(stack: React + CSS).
+I've been learning to code for 3 years. I started with c#, but have found a passion for Frontend. First knowledges gave me a E-book, where I discovered first HTML/CSS knowledges. I continued with book named 'JS for kids', after what one enought big Frontend course was taken by me. There I got many lessons and practice tasks in HTML/CSS, BEM and SASS(SCSS), JS, Git, TS and React. During the course I prepared 2 small PET projects(1-st one: HTML+SASS, 2-nd one: React+CSS), that show my skills. Now, I gain my professional skills from KSE(Kyiv school of Economics),where I'm second cource student in Computer sience. This is my small story from scratch to Frontend Developer. Currently I'm studying React and React Native. Recently I got some practice at coding in ObriSoft, where I had an internship as a Frontend developer(stack: React + SCSS). 
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [bymood.grmn@gmail.com](mailto:bymood.grmn@gmail.com)
